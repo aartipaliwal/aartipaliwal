@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarti Paliwal  
 
-🚀 **Software Engineer | Cloud & Databricks Certified | Data Engineering Enthusiast **  
+# 🚀 Software Engineer | Cloud & Databricks Certified | Data Engineering Enthusiast **  
 
 I’m a Data Engineer with 1.6+ years of experience building and optimizing scalable data pipelines on Azure-based platforms. I specialize in improving reliability, monitoring large-scale workflows, and delivering high-performance data solutions.
 
