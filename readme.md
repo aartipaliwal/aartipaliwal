@@ -2,14 +2,14 @@
 
 ## 🚀 Software Engineer | Cloud & Databricks Certified | Data Engineering Enthusiast 
 
-I’m a Data Engineer with 1.6+ years of experience building and optimizing scalable data pipelines on Azure-based platforms. I specialize in improving reliability, monitoring large-scale workflows, and delivering high-performance data solutions.
+I’m a Data Engineer with 2 years of experience building and optimizing scalable data pipelines on Azure-based platforms. I specialize in improving reliability, monitoring large-scale workflows, and delivering high-performance data solutions.
 
 ---
 
 ## 🧑‍💻 About Me  
 
 - 💼 Software Engineer  
-- ⚙️ Experienced in data pipelines, monitoring, and incident resolution  
+- ⚙️ Experienced in data pipelines, AI and databricks
 - 🧠 Interested in Data Engineering  
 - 🛠️ Love building real-world, production-grade systems  
 - 📈 Currently improving problem solving for top product companies  
@@ -42,18 +42,6 @@ I’m a Data Engineer with 1.6+ years of experience building and optimizing scal
 - Microsoft Azure
 - Azure Databricks
 - Azure Resource Manager (ARM)
-
-### Monitoring & Orchestration
-- Azure Monitor
-- Databricks Jobs & Workflow Management
-- PagerDuty
-- ServiceNow
-- SLA Management
-
-### Tools
-- Active Directory
-- Remote Desktop Protocol (RDP)
-- LightUp Tool
 
 ---
 
