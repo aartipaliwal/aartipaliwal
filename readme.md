@@ -1,89 +1,127 @@
 <div align="center">
 
-# 👋 Hi, I'm Aarti Paliwal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aarti%20Paliwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Azure%20%26%20Databricks%20%7C%20GenAI&descAlignY=58&descSize=18" alt="Aarti Paliwal banner" />
 
-### Data Engineer | Azure and Databricks | Building AI-powered data systems
+<a href="https://github.com/aartipaliwal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3621&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aarti+%F0%9F%91%8B;I+build+data+pipelines+on+Databricks+%F0%9F%9B%A0%EF%B8%8F;Building+Databricks+Apps+and+AI+solutions+%F0%9F%A4%96;Open+to+Data+%2F+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-Turning pipelines into reliable products, and now adding GenAI on top.
+<br/>
 
-![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-AZ--104%20%7C%20AZ--900-0078D4?logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-PySpark-3776AB?logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ--104%20%7C%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## 👩‍💻 Who am I?
 
-I'm a Software Engineer at Accenture with about 2 years of experience on **Azure Databricks** data platforms. I work on ETL pipelines and production support: monitoring large workflows, troubleshooting failures and keeping data reliable for the people who depend on it.
+```python
+class Aarti:
+    role       = "Software Engineer @ Accenture"
+    experience = "~2 years on Azure Databricks data platforms"
+    superpower = "Turning data into reliable pipelines and AI-powered apps"
+    now        = ["Databricks Apps", "Databricks AI tools", "RAG and vector search", "Genie agents"]
+    learning   = ["Agent Bricks", "Databricks Asset Bundles", "Agentic AI"]
+    goal       = "Data / AI Engineer at a product-based company"
 
-Right now I'm moving into the **data + AI** space, building hands-on projects with RAG, vector search and agentic tools on Databricks.
+    def ask_me_about(self):
+        return ["Databricks", "Delta Lake", "PySpark", "RAG basics"]
+```
 
-- 🔭 **Working on:** Databricks AI and data pipelines
-- 🌱 **Learning:** Genie agents, RAG with Agent Bricks, Databricks Asset Bundles, agentic AI
-- 🎯 **Goal:** Data Engineer / AI Engineer role at a product-based company
-- 💬 **Ask me about:** Databricks, Delta Lake, PySpark, pipeline monitoring and RAG basics
+I'm a Software Engineer at Accenture with about 2 years of experience working on **Azure Databricks** ETL pipelines. Now I'm building with **Databricks Apps** and **Databricks AI tools**, and growing in the **data + AI** space through hands-on projects with RAG, vector search and agentic tools.
 
 ---
 
 ## 🚀 Featured project
 
-### 🚨 [Pipeline Incident Assistant: RAG on Databricks](https://github.com/aartipaliwal/incident-assistant)
+<table>
+<tr>
+<td>
 
-An assistant that answers data-pipeline incident questions from runbooks, with source citations, and says "I don't know" when the answer is not there.
+### 🚨 [Pipeline Incident Assistant](https://github.com/aartipaliwal/incident-assistant)
+**RAG on Databricks:** ask about a failed pipeline, get the fix and the source runbook.
 
-- Built end to end: Delta Lake ingestion, two chunking strategies, Databricks Vector Search, Llama 3.3 70B
-- Compared small vs. large chunks with a test set to pick the better retrieval setup
-- Incremental updates re-process only new, changed or deleted runbooks
-- Orchestrated as a Databricks Job
+- 🔎 Semantic search with **Databricks Vector Search**
+- 🧠 Answers grounded in runbooks by **Llama 3.3 70B**, with "I don't know" for anything out of scope
+- ⚖️ Compared **small vs. large chunking** using a test set
+- 🔄 **Incremental updates** re-process only changed runbooks
+- ⏱️ Orchestrated with a **Databricks Job**
 
-`Databricks` `Delta Lake` `Vector Search` `Llama 3.3 70B` `PySpark` `Python`
+[![View project](https://img.shields.io/badge/View%20Project-FF3621?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aartipaliwal/incident-assistant)
+
+</td>
+</tr>
+</table>
+
+```mermaid
+flowchart LR
+    A[Runbooks] --> B[(Delta bronze table)]
+    B --> C[Small and large chunks]
+    C --> D[Vector Search index]
+    Q[Your question] --> D
+    D --> E[Llama 3.3 70B]
+    E --> F[Answer + source]
+```
 
 ---
 
-## 📊 More projects
+## 🛠️ Other projects
 
 ### 🔹 Retail Sales Data Analysis
-- Processed and analyzed retail sales data using Spark DataFrames
-- Cleaned data: null handling, deduplication, type casting
-- Joined multiple datasets to calculate revenue metrics
+Processed and analyzed retail sales data with Spark DataFrames: null handling, deduplication, type casting, and joining datasets to calculate revenue metrics.
 
-`PySpark` `Spark DataFrames` `Databricks`
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
 ## 🧰 Tech stack
 
-| Area | Tools |
-|---|---|
-| Platform | Azure, Databricks (Delta Lake, Unity Catalog, Jobs, Vector Search) |
-| Languages | Python, PySpark, SQL |
-| GenAI | RAG, embeddings, vector search, LLM prompting |
-| Practices | ETL pipelines, pipeline monitoring, incident troubleshooting, Git and GitHub |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**GenAI:** RAG · Embeddings · Vector Search · LLM prompting · Evaluation
 
 ---
 
-## 🏅 Certifications
+## 🗺️ My roadmap
 
-- ✅ Databricks Certified Data Engineer Associate
-- ✅ Microsoft Azure Administrator (AZ-104)
-- ✅ Microsoft Azure Fundamentals (AZ-900)
+| ✅ Done | 🔨 Now | 🔜 Next |
+|---|---|---|
+| Databricks Data Engineer Associate | Databricks Apps and AI tools, Genie agents | Second GenAI project |
+| Azure AZ-104 and AZ-900 | Agent Bricks and RAG | Deployment and containers |
+| RAG Incident Assistant | Databricks Asset Bundles | Product-company Data / AI role |
 
-## 🎓 Education
+---
 
-- MCA, Kurukshetra University
-- BCA, Kurukshetra University (GPA 8.9/10)
+## 🏅 Certifications and education
+
+- ✅ **Databricks Certified Data Engineer Associate**
+- ✅ **Microsoft Azure Administrator (AZ-104)**
+- ✅ **Microsoft Azure Fundamentals (AZ-900)**
+- 🎓 MCA, Kurukshetra University · BCA, Kurukshetra University (GPA 8.9/10)
 
 ---
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+aarti-paliwal
+)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartipaliwal86@gmail.com)
+
+*"Data is only as useful as what you build on top of it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 
 </div>
