@@ -120,7 +120,7 @@ Processed and analyzed retail sales data with Spark DataFrames: null handling, d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aarti-paliwal)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartipaliwal86@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=aartipaliwal&color=blue&style=flat)
 
 *"Data is only as useful as what you build on top of it."*
 
