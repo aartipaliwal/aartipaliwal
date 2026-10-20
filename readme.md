@@ -1,11 +1,20 @@
 <div align="center">
-👋 Hi, I'm Aarti Paliwal
-Data Engineer | Azure and Databricks | GenAI
-<a href="https://github.com/aartipaliwal"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3621&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aarti+%F0%9F%91%8B;I+build+data+pipelines+on+Databricks+%F0%9F%9B%A0%EF%B8%8F;Building+Databricks+Apps+and+AI+solutions+%F0%9F%A4%96;Open+to+Data+%2F+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" /> </a> <br/>
 
-Show Image Show Image
+# 👋 Hi, I'm Aarti Paliwal
+
+### Data Engineer | Azure and Databricks | GenAI
+
+<a href="https://github.com/aartipaliwal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3621&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aarti+%F0%9F%91%8B;I+build+data+pipelines+on+Databricks+%F0%9F%9B%A0%EF%B8%8F;Building+Databricks+Apps+and+AI+solutions+%F0%9F%A4%96;Open+to+Data+%2F+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" />
+</a>
+
+<br/>
+
+![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ--104%20%7C%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
+
 ---
 
 ## 👩‍💻 Who am I?
@@ -109,12 +118,9 @@ Processed and analyzed retail sales data with Spark DataFrames: null handling, d
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-aarti-paliwal
-)
+aarti-paliwal)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartipaliwal86@gmail.com)
 
 *"Data is only as useful as what you build on top of it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 
 </div>
