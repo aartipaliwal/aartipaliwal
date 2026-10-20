@@ -1,18 +1,11 @@
 <div align="center">
+👋 Hi, I'm Aarti Paliwal
+Data Engineer | Azure and Databricks | GenAI
+<a href="https://github.com/aartipaliwal"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3621&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aarti+%F0%9F%91%8B;I+build+data+pipelines+on+Databricks+%F0%9F%9B%A0%EF%B8%8F;Building+Databricks+Apps+and+AI+solutions+%F0%9F%A4%96;Open+to+Data+%2F+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" /> </a> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aarti%20Paliwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Azure%20%26%20Databricks%20%7C%20GenAI&descAlignY=58&descSize=18" alt="Aarti Paliwal banner" />
-
-<a href="https://github.com/aartipaliwal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3621&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aarti+%F0%9F%91%8B;I+build+data+pipelines+on+Databricks+%F0%9F%9B%A0%EF%B8%8F;Building+Databricks+Apps+and+AI+solutions+%F0%9F%A4%96;Open+to+Data+%2F+AI+Engineer+roles+%F0%9F%9A%80" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-AZ--104%20%7C%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Show Image Show Image
 
 </div>
-
 ---
 
 ## 👩‍💻 Who am I?
