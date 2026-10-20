@@ -1,78 +1,89 @@
-# 👋 Hi, I'm Aarti Paliwal  
+<div align="center">
 
-## 🚀 Software Engineer | Cloud & Databricks Certified | Data Engineering Enthusiast 
+# 👋 Hi, I'm Aarti Paliwal
 
-I’m a Data Engineer with 2 years of experience building and optimizing scalable data pipelines on Azure-based platforms. I specialize in improving reliability, monitoring large-scale workflows, and delivering high-performance data solutions.
+### Data Engineer | Azure and Databricks | Building AI-powered data systems
 
----
+Turning pipelines into reliable products, and now adding GenAI on top.
 
-## 🧑‍💻 About Me  
+![Databricks](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer-FF3621?logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ--104%20%7C%20AZ--900-0078D4?logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-PySpark-3776AB?logo=python&logoColor=white)
 
-- 💼 Software Engineer  
-- ⚙️ Experienced in data pipelines, AI and databricks
-- 🧠 Interested in Data Engineering  
-- 🛠️ Love building real-world, production-grade systems  
-- 📈 Currently improving problem solving for top product companies  
+</div>
 
 ---
 
-## 🚀 Projects  
+## 🧑‍💻 About me
 
-### 🔹 Retail Sales Data Analysis  
+I'm a Software Engineer at Accenture with about 2 years of experience on **Azure Databricks** data platforms. I work on ETL pipelines and production support: monitoring large workflows, troubleshooting failures and keeping data reliable for the people who depend on it.
+
+Right now I'm moving into the **data + AI** space, building hands-on projects with RAG, vector search and agentic tools on Databricks.
+
+- 🔭 **Working on:** Databricks AI and data pipelines
+- 🌱 **Learning:** Genie agents, RAG with Agent Bricks, Databricks Asset Bundles, agentic AI
+- 🎯 **Goal:** Data Engineer / AI Engineer role at a product-based company
+- 💬 **Ask me about:** Databricks, Delta Lake, PySpark, pipeline monitoring and RAG basics
+
+---
+
+## 🚀 Featured project
+
+### 🚨 [Pipeline Incident Assistant: RAG on Databricks](https://github.com/aartipaliwal/incident-assistant)
+
+An assistant that answers data-pipeline incident questions from runbooks, with source citations, and says "I don't know" when the answer is not there.
+
+- Built end to end: Delta Lake ingestion, two chunking strategies, Databricks Vector Search, Llama 3.3 70B
+- Compared small vs. large chunks with a test set to pick the better retrieval setup
+- Incremental updates re-process only new, changed or deleted runbooks
+- Orchestrated as a Databricks Job
+
+`Databricks` `Delta Lake` `Vector Search` `Llama 3.3 70B` `PySpark` `Python`
+
+---
+
+## 📊 More projects
+
+### 🔹 Retail Sales Data Analysis
 - Processed and analyzed retail sales data using Spark DataFrames
-- Performed data cleaning (null handling, deduplication, type casting)
+- Cleaned data: null handling, deduplication, type casting
 - Joined multiple datasets to calculate revenue metrics
-- Used window functions to identify top customers & trends
-- Generated business insights using Spark SQL  
+
+`PySpark` `Spark DataFrames` `Databricks`
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech stack
 
-### Languages  
-- Python
-- SQL
-
-### Data Engineering  
-- PySpark (DataFrames, Transformations, Joins, Window Functions)
-- ETL Pipelines
-- Data Ingestion & Validation
-
-### Cloud & Big Data
-- Microsoft Azure
-- Azure Databricks
-- Azure Resource Manager (ARM)
+| Area | Tools |
+|---|---|
+| Platform | Azure, Databricks (Delta Lake, Unity Catalog, Jobs, Vector Search) |
+| Languages | Python, PySpark, SQL |
+| GenAI | RAG, embeddings, vector search, LLM prompting |
+| Practices | ETL pipelines, pipeline monitoring, incident troubleshooting, Git and GitHub |
 
 ---
 
-## 📊 GitHub Stats  
+## 🏅 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aartipaliwal&show_icons=true&theme=radical)
+- ✅ Databricks Certified Data Engineer Associate
+- ✅ Microsoft Azure Administrator (AZ-104)
+- ✅ Microsoft Azure Fundamentals (AZ-900)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aartipaliwal&layout=compact&theme=radical)
+## 🎓 Education
 
----
-
-## 🔥 Streak Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aartipaliwal&theme=radical)
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 LinkedIn: https://linkedin.com/in/aarti-paliwal 
-- 📧 Email: aartipaliwal314@gmail.com 
-- 💻 GitHub: https://github.com/aartipaliwal
+- MCA, Kurukshetra University
+- BCA, Kurukshetra University (GPA 8.9/10)
 
 ---
 
-## ⚡ Fun Fact  
+## 📫 Let's connect
 
-I enjoy turning complex problems into simple, scalable systems — and occasionally breaking things just to learn how they work 😄  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
----
+<div align="center">
 
-## ⭐️ Show some love  
+⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories!
+</div>
